@@ -176,4 +176,4 @@ This project is licensed under the **MIT License** – see the [LICENSE.md](LICE
 
 ## 📞 Contact
 
-For questions or support, please contact: **[Your Email]** or create an issue in the repository.  
+For questions or support, please contact: **crisadrian482@gmail.com** or create an issue in the repository.  
