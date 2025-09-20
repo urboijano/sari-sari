@@ -104,7 +104,7 @@ npm install
 
 # Start development server
 npm start
-
+```
 # 📊 Database Schema & API Documentation
 
 This document provides details on the **database schema**, **API endpoints**, and **deployment options** for the Sari-Sari Sustento system.
